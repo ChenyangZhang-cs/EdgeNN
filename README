@@ -1,3 +1,3 @@
-This repository provides the source code of manuscript *EdgeNN: Efficient Neural Network Inference for CPU-GPU Integrated Edge Devices* for VLDB revision.
+This repository provides the source code of manuscript *EdgeNN: Efficient Neural Network Inference for CPU-GPU Integrated Edge Devices* for ICDE revision.
 
 Before running VGG, you need to download the VGG weight file from https://mega.nz/file/LIhjXRhQ#scgNodAkfwWIUZdTcRfmKNHjtUfUb2KiIvfvXdIe-vc, decompress it, and put it into VGG/data.
