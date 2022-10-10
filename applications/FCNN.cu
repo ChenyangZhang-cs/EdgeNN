@@ -1,9 +1,9 @@
-#include "layer.cu"
-#include <cuda.h>
+#include "../src/layer.cu"
+#include < cuda.h>
+#include <fstream>
 #include <omp.h>
 #include <sys/time.h>
 #include <time.h>
-#include <fstream>
 
 using namespace std;
 

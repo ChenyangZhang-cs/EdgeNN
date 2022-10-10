@@ -1,8 +1,8 @@
 // chenyang's version
 #define USE_MNIST_LOADER
 #define MNIST_DOUBLE
-#include "layer.cu"
 #include "../include/mnist.h"
+#include "../src/layer.cu"
 
 #include <cuda.h>
 #include <time.h>

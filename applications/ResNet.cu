@@ -1,7 +1,7 @@
 #define USE_MNIST_LOADER
 #define MNIST_DOUBLE
-#include "layer.cu"
 #include "../include/mnist.h"
+#include "../src/layer.cu"
 #include <cstdio>
 #include <cuda.h>
 #include <time.h>
