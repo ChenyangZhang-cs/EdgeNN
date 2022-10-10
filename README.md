@@ -4,7 +4,6 @@
 
 This repository provides the source code of manuscript *EdgeNN: Efficient Neural Network Inference for CPU-GPU Integrated Edge Devices*.
 
-Before running VGG, you need to download the VGG weight file from https://mega.nz/file/LIhjXRhQ#scgNodAkfwWIUZdTcRfmKNHjtUfUb2KiIvfvXdIe-vc, decompress it, and put it into data/VGG.
 
 ## Abstract
 
@@ -24,7 +23,9 @@ make
 
 1. ``cd example``
 
-2. Run all example programs:
+2. Before running VGG, you need to download the VGG weight file from https://mega.nz/file/LIhjXRhQ#scgNodAkfwWIUZdTcRfmKNHjtUfUb2KiIvfvXdIe-vc, decompress it, and put it into data/VGG.
+
+3. Run all example programs:
 
 ```shell
 bash run_all.sh
