@@ -1,6 +1,6 @@
 #define USE_MNIST_LOADER
 #define MNIST_DOUBLE
-#include "layer.cu"
+#include "../src/layer.cu"
 #include "../include/mnist.h"
 #include "../include/pixels.h"
 
