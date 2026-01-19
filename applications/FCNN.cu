@@ -1,5 +1,5 @@
 #include "../src/layer.cu"
-#include < cuda.h>
+#include <cuda.h>
 #include <fstream>
 #include <omp.h>
 #include <sys/time.h>
